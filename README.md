@@ -1,10 +1,10 @@
 # Project 1 Generative Text
 
-Your Name, yourcontact@ucsd.edu
-
-(Your teammate's contact info, if appropriate)
+Will Stock, wstock@ucsd.edu
 
 ## Abstract
+
+For my project idea, I want to train a text generator with JSON file data of product reviews found at http://jmcauley.ucsd.edu/data/amazon/. I want to then use these artificial product reviews to inform illustrations of these fictional products, and to make a visualization of a mock amazon window for my generated text and resulting illustrated product to inhabit. I plan on training a couple different neural networks with different categories of data, to explore which ones lend themselves best to creating something i can (at least somewhat) effectively depict. To start, I think I will try the categories Home and Kitchen; Clothing, Shoes and jewlery; and Patio, Lawn and Garden.
 
 Include your abstract here. This should be one paragraph clearly describing your concept, method, and results. This should tell us what architecture/approach you used. Also describe your creative goals, and whether you were successful in achieving them. Also could describe future directions.
 

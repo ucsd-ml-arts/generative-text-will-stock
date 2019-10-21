@@ -19,8 +19,6 @@ And the RNN example code I used to generate a RNN in order to
 
 ## Code
 
-#Resources
-# https://stackoverflow.com/questions/12451431/loading-and-parsing-a-json-file-with-multiple-json-objects-in-python
 
 # Imports
 import json

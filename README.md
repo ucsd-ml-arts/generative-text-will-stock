@@ -10,19 +10,17 @@ In working on this project, I definitely encountered holes in my understanding o
 
 ## Model/Data
 
-Briefly describe the files that are included with your repository:
+Included in my repository are:
 
-Included in my repository are... 
+The dataset I drew from - Home_and_Kitchen_5.json
 
-the dataset I drew from (Home_and_Kitchen_5.json)
+The code I made to pull review data out of this json file - json2txt.py
 
-The code I made to pull review data out of this json file (json2txt.py)
+The condensed text from 5000 reviews from this dataset - RNN_Script_HK.txt
 
-The condensed text from 5000 reviews from this dataset (RNN_Script_HK.txt)
+Week 02 RNN example code used to train and generate text - Will be included ASAP
 
-Week 02 RNN example code used to train and generate text (ASAP)
-
-Illustration of chosen text (Pressure_Cooker.jpg)
+Illustration of chosen text - Pressure_Cooker.jpg 
 
 Mock Amazon window with generated text and illustration
 

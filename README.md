@@ -11,11 +11,14 @@ In working on this project, I definitely encountered holes in my understanding o
 ## Model/Data
 
 Briefly describe the files that are included with your repository:
+
 Included in my repository are:
 the dataset I drew from: Home_and_Kitchen_5.json
 The code I made to pull review data out of this json file (json2txt.py)
 The condensed text from 5000 reviews from this dataset (RNN_Script_HK.txt)
-And the RNN example code I used to generate a RNN in order to 
+Week 02 RNN example code used to train and generate text (ASAP)
+Illustration of chosen text (Pressure_Cooker.jpg)
+Mock Amazon window with generated text and illustration
 
 ## Code
 
@@ -72,9 +75,7 @@ Not sure it was the best of a handle is worth the motor handle and the rubber ha
 
 ## Technical Notes
 
-Any implementation details or notes we need to repeat your work. 
-- Does this code require other pip packages, software, etc?
-- Does it run on some other (non-datahub) platform? (CoLab, etc.)
+None for this project
 
 ## Reference
 

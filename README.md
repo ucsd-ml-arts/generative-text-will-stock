@@ -36,7 +36,7 @@ data = []
 count = 0
 
 # Read JSON data into the datastore variable
-
+'''
 with open('Home_and_Kitchen_5.json') as f:
     for line in f:
         if(count < 5000):
@@ -51,7 +51,7 @@ with open('Home_and_Kitchen_5.json') as f:
             file.write(strD)
             file.close()
             break
-
+'''
 
 RNN example code: (AS SOON AS POSSIBLE)
 

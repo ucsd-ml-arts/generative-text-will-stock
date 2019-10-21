@@ -12,12 +12,12 @@ In working on this project, I definitely encountered holes in my understanding o
 
 Briefly describe the files that are included with your repository:
 
-Included in my repository are:
-the dataset I drew from: Home_and_Kitchen_5.json
-The code I made to pull review data out of this json file (json2txt.py)
-The condensed text from 5000 reviews from this dataset (RNN_Script_HK.txt)
-Week 02 RNN example code used to train and generate text (ASAP)
-Illustration of chosen text (Pressure_Cooker.jpg)
+Included in my repository are... \n
+the dataset I drew from (Home_and_Kitchen_5.json)\n
+The code I made to pull review data out of this json file (json2txt.py)\n
+The condensed text from 5000 reviews from this dataset (RNN_Script_HK.txt)\n
+Week 02 RNN example code used to train and generate text (ASAP)\n
+Illustration of chosen text (Pressure_Cooker.jpg)\n
 Mock Amazon window with generated text and illustration
 
 ## Code

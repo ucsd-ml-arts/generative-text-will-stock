@@ -35,7 +35,8 @@ import json
 data = []
 count = 0
 
-#Read JSON data into the datastore variable
+# Read JSON data into the datastore variable
+
 with open('Home_and_Kitchen_5.json') as f:
     for line in f:
         if(count < 5000):
